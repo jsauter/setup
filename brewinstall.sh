@@ -11,6 +11,7 @@ brew install readline
 brew install sqlite		
 brew install xz		
 brew install vzsh
+brew install node
 
 brew cask install 1password                              
 brew cask install clipy                                  
